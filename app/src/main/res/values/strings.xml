@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Story Sphere</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">A world where your personal stories find an audience always ready to enjoy them. Be part of a community that brings every story to life.</string>
+    <string name="title_welcome_page">Welcome to Story Sphere</string>
+    <string name="title_signup_page">Please enter your data below.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">First, enter your data.</string>
+    <string name="title_login_page">Wohoo! You are almost entering our world!</string>
+    <string name="name">Name</string>
+    <string name="main_title">Story</string>
+    <string name="title_add">New Story</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="desc_hint">Description</string>
+    <string name="upload">Upload</string>
+    <string name="logout_title">Logout</string>
+    <string name="language_title">Language</string>
+</resources>
